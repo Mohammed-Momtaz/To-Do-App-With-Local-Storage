@@ -10,6 +10,10 @@ A simple to-do list application that uses local storage to save tasks.
 - [Contributing](#contributing)
 - [Contact](#contact)
 
+## Description
+
+This To-Do App is designed to help you keep track of your tasks. The app saves tasks in the browser's local storage, ensuring that your tasks are preserved even after refreshing the page or closing the browser.
+
 ## Installation
 
 To run this project locally, follow these steps:
