@@ -6,6 +6,7 @@ A simple to-do list application that uses local storage to save tasks.
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -45,7 +46,19 @@ To use the To-Do App:
   
 3. View your tasks in the list below the input field.
   
-4. Tasks are saved in the browser's local storage, so they persist even if you refresh the page or close and reopen the browser.
+4. Edit tasks by clicking on them, making your changes, and pressing enter.
+
+5. Delete tasks by clicking the "Delete" button next to each task.
+
+6. Tasks are saved in the browser's local storage, so they persist even if you refresh the page or close and reopen the browser.
+
+## Features
+
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Persistent storage using local storage
+- Simple and user-friendly interface
 
 ## Contributing
 
