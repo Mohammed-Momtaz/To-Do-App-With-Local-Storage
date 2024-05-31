@@ -40,8 +40,11 @@ npm install
 To use the To-Do App:
 
 1. Open the index.html file in your browser.
+  
 2. Add new tasks by typing in the input field and clicking the "Add" button.
+  
 3. View your tasks in the list below the input field.
+  
 4. Tasks are saved in the browser's local storage, so they persist even if you refresh the page or close and reopen the browser.
 
 ## Contributing
